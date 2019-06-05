@@ -21,7 +21,7 @@
             android:layout_marginLeft="4.00dp"
             android:src="@drawable/arrow"/>
 
-        <com.dev.chatlayout.CircleImageView
+        <com.dev.chatlibrary.CircleImageView
             android:layout_width="36.00dp"
             android:layout_height="36.00dp"
             android:id="@+id/iv_userprofile"
